@@ -1,3 +1,3 @@
 # HTML
  My HTML learning and practice projects
- Author Divyansh Patankar
+ Author Divyansh Patankar<br>
